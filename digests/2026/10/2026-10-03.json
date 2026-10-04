@@ -1,0 +1,20 @@
+{
+  "closed": [
+    {
+      "basis": "close",
+      "id": 156,
+      "outcome_hash": "bbaf34d5ac180d230d44454f79478481bfb73eed2bb859bef06f64c9c0bcf227"
+    }
+  ],
+  "closed_root": "aa53c41191ebca397642fdb4748037e9372536e5b3c3564fd38cf0404e1eaebf",
+  "day": "2026-10-03",
+  "digest": "6affd0f6e13fe61bddc1de6ab5074eceb02547678d301c33537d6a29674c63fd",
+  "excluded": [],
+  "excluded_root": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+  "generated_at": "2026-10-04T00:10:00.070448Z",
+  "kind": "daily",
+  "prev_digest": null,
+  "published": [],
+  "published_root": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+  "v": 1
+}
