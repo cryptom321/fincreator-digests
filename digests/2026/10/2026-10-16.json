@@ -1,0 +1,136 @@
+{
+  "closed": [
+    {
+      "basis": "close",
+      "id": 219,
+      "outcome_hash": "4ae69557bf97d89fcef01143c7e64d9322a0b8d083ec5c855504834979cfb07c"
+    },
+    {
+      "basis": "close",
+      "id": 220,
+      "outcome_hash": "f527f091e6adfbe89bb7a2845c779603ec01f4ef153d1b7493c808352b420705"
+    },
+    {
+      "basis": "close",
+      "id": 221,
+      "outcome_hash": "aaafa07519a3cdb5e05ca64d0278f1aefffd32706bc58d8c7af62907d0361584"
+    },
+    {
+      "basis": "close",
+      "id": 281,
+      "outcome_hash": "ce8a2f7e9e24b6de9bd775ca8c67f51789700a748006f9dfeccd414178dec42b"
+    },
+    {
+      "basis": "close",
+      "id": 282,
+      "outcome_hash": "713d75e030e0adf81db3f7f21580984b2b299f6884dab6b966aaa26192d7ec63"
+    },
+    {
+      "basis": "close",
+      "id": 283,
+      "outcome_hash": "89b84d547a62b6997ae38425ac7fdb231b30228243281d2a5125d9fd48b1a74f"
+    },
+    {
+      "basis": "close",
+      "id": 284,
+      "outcome_hash": "75cf5a0080744f1588186df0e6467e414e15038a8045be67300c18d6658e25dd"
+    },
+    {
+      "basis": "close",
+      "id": 286,
+      "outcome_hash": "21f448c5642a07bda8477b590b92a5d85616115146fff9cda1351d7924b4aa43"
+    },
+    {
+      "basis": "close",
+      "id": 287,
+      "outcome_hash": "2ff5d3038fd2f161b72ce0fbb227424df31399e77e66ed9ed970281dc70d0b99"
+    },
+    {
+      "basis": "close",
+      "id": 288,
+      "outcome_hash": "c3f903e7a79a5f775c2e8c23220ece018023e45a3f8ff13885c7ffc9d40422c6"
+    },
+    {
+      "basis": "close",
+      "id": 289,
+      "outcome_hash": "15b3945efd5dc3af0e239e24ee0b5c481b99dcf99ce004a4651cdad4d85ce4fb"
+    },
+    {
+      "basis": "close",
+      "id": 291,
+      "outcome_hash": "542aa2f64c1ab1ebe196a7ec3d795de5670b32b750f28060ac36e13be5ae7c4e"
+    },
+    {
+      "basis": "close",
+      "id": 293,
+      "outcome_hash": "f5615eecfd2f5ce9d0aa47a6da7c27677486c72486c732bd7a2c97ba3a85dc0c"
+    },
+    {
+      "basis": "close",
+      "id": 294,
+      "outcome_hash": "d90735e55f0ab1e45359e204ea5cd3f3878e1e4d0f0c032b74a346c2a0135423"
+    },
+    {
+      "basis": "close",
+      "id": 303,
+      "outcome_hash": "34633fce3876b09ba10389129a8db280ca5328857393cccac32c7aeed434cb04"
+    }
+  ],
+  "closed_root": "48b044a519673c49c50d7ac8290d1c4bb43644ada17f50efe13247fbbf5b6363",
+  "day": "2026-10-16",
+  "digest": "df1b935ca66b649facb0ef04877bd7576eaf6b4a73d7949894a114abe49b2a45",
+  "excluded": [],
+  "excluded_root": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+  "generated_at": "2026-10-17T00:10:00.045572Z",
+  "kind": "daily",
+  "prev_digest": "ca48dc7ee353ecd2843b82b02c86add9fa19decc9458834e0a3b1668a41ba40e",
+  "published": [
+    {
+      "basis": "publish",
+      "call_hash": "442b9c66eef54a1b2dcb256361a5561a013e0a4e18433d72fc04d978d70e7617",
+      "id": 298
+    },
+    {
+      "basis": "publish",
+      "call_hash": "f16197d00d026696453b32c2d998c0f1b58c406f425dd9c3f9d6c6c245c8387b",
+      "id": 299
+    },
+    {
+      "basis": "publish",
+      "call_hash": "f7444c59dfe5ce4d36e52aa0549b3c019dc8e3b38341b4e7ff8cfaef8e8bd135",
+      "id": 300
+    },
+    {
+      "basis": "publish",
+      "call_hash": "c4e5c451221f1660f04e5bc75a569777e1977d738c6e615f6474d6ef9f59b7d2",
+      "id": 301
+    },
+    {
+      "basis": "publish",
+      "call_hash": "59ec7c731d6242c1af8360f8a658434d8980272778b5b4247637ea87df74e79c",
+      "id": 302
+    },
+    {
+      "basis": "publish",
+      "call_hash": "64338d765fba62a7848e81e888328a3565e394020436c68aee8061ec82822bc6",
+      "id": 303
+    },
+    {
+      "basis": "publish",
+      "call_hash": "e7d383292f2656e9508d5aedc7eadb56a020b5ddbb761cd4ab7b4220f3e0582c",
+      "id": 304
+    },
+    {
+      "basis": "publish",
+      "call_hash": "2295659e6574ab33f39a55e27c006769cec5a6013bc8dddf60e96edcf8bd5446",
+      "id": 305
+    },
+    {
+      "basis": "publish",
+      "call_hash": "e0bfa328c25dfdaa839a75dcbac811dd4f33e92569f3cd2c0bfd403308070374",
+      "id": 306
+    }
+  ],
+  "published_root": "2d6016cc141eb4f1f3e7a49396213706114cbb7f2a00f10da58d62e452cbe3da",
+  "v": 1
+}
