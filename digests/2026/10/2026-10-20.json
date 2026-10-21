@@ -1,0 +1,66 @@
+{
+  "closed": [
+    {
+      "basis": "close",
+      "id": 313,
+      "outcome_hash": "0c00d1b2d3d81e3863785d1161eca63ddc6fb4616d749650d9d164760936e772"
+    },
+    {
+      "basis": "close",
+      "id": 314,
+      "outcome_hash": "5d58c2d90cf7cb1a20e2082835f3f7389610894fdbf520fcc3a57f8353a43df1"
+    },
+    {
+      "basis": "close",
+      "id": 319,
+      "outcome_hash": "d377af27779ad1812514871819ab32e00ab4a4bf3d35b63679395d3abf9e5305"
+    },
+    {
+      "basis": "close",
+      "id": 320,
+      "outcome_hash": "e96fd833df34319a617c932623597d8f2580578c2114c05ac30bb2ecc56ff242"
+    },
+    {
+      "basis": "close",
+      "id": 322,
+      "outcome_hash": "eaeabcfa24466758bf771659954b545dfdfed59aa92f59b091c9c5eba9d9723b"
+    },
+    {
+      "basis": "close",
+      "id": 323,
+      "outcome_hash": "57430f5cbd8a8f2ee0d76ba8a93420636c2263ee734742defdd489683dd1068a"
+    }
+  ],
+  "closed_root": "140d8c12073cad29ac17e61780647ca24222b8b8faf400ab8cc75454c8197a6c",
+  "day": "2026-10-20",
+  "digest": "89d57b40fa537c28c6323104440cae0113382c0f6068b7a62286b255c26f6bfd",
+  "excluded": [],
+  "excluded_root": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+  "generated_at": "2026-10-21T00:10:00.050073Z",
+  "kind": "daily",
+  "prev_digest": "9e416c8d5da4e418de1591f9bde52619b36edaa44caa93a4b7bf0c17492683f0",
+  "published": [
+    {
+      "basis": "publish",
+      "call_hash": "28fd69ab39feb9360d55609f29184eafe7f09a1b88b0a2579af5b4a428812f79",
+      "id": 324
+    },
+    {
+      "basis": "publish",
+      "call_hash": "5f684533d389112b4ce5b1b4bbca86eaba64a553ddb94be20cb80ba8333d3572",
+      "id": 325
+    },
+    {
+      "basis": "publish",
+      "call_hash": "073438c5d3a6aca3d316026feb3e06a52438215e2cee350ac2bd2680b68ffb20",
+      "id": 326
+    },
+    {
+      "basis": "publish",
+      "call_hash": "7b91384360dcea89de0556ff02204bcd007fcc2c368228eb1ce35dee0a6ffdc8",
+      "id": 327
+    }
+  ],
+  "published_root": "20f3ed5a1a19cf24c8e530502f6cbaf78ea36e7d41e385c20fc9aee438cc6d35",
+  "v": 1
+}
