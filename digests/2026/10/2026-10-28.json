@@ -1,0 +1,20 @@
+{
+  "closed": [],
+  "closed_root": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+  "day": "2026-10-28",
+  "digest": "65c7b49a6276d165eb9bf9861178846e96940cca94845f46ea2f809718047d51",
+  "excluded": [],
+  "excluded_root": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+  "generated_at": "2026-10-29T00:10:00.020287Z",
+  "kind": "daily",
+  "prev_digest": "071b83649fb9d57a6120263c2f93dd49287e7d545b12b7b577b96a358af3d9d8",
+  "published": [
+    {
+      "basis": "publish",
+      "call_hash": "80bba10a66e1247ccde57e51201ee31fca3168f919af6ea0e858c9a058650329",
+      "id": 360
+    }
+  ],
+  "published_root": "ff076fae9f11837981f4e858420cbd609b3a7834146fafd52ce8e257c248cba5",
+  "v": 1
+}
