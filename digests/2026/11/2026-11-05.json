@@ -1,0 +1,31 @@
+{
+  "closed": [
+    {
+      "basis": "close",
+      "id": 370,
+      "outcome_hash": "c8570830067d076f1d6a7db5af091b9686c2417a8ef6fb73cbf86ed4d9a34528"
+    }
+  ],
+  "closed_root": "78dff01cb605a13c1fead7e9b16667b11cbf5de4bcc481dd86318696db50ac2d",
+  "day": "2026-11-05",
+  "digest": "a935931b861aa512c099ddcdb291108e436468004fb7fea5f6c92869a2edb278",
+  "excluded": [],
+  "excluded_root": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+  "generated_at": "2026-11-06T00:10:00.006832Z",
+  "kind": "daily",
+  "prev_digest": "a830ed9a223d665e0e8cec52c81d62bc4926c7a4d88c728bb61930ec56d12e70",
+  "published": [
+    {
+      "basis": "publish",
+      "call_hash": "59be34437a08332cda3460938fe1df1a504cd2ab99235be38802b26df73d4830",
+      "id": 375
+    },
+    {
+      "basis": "publish",
+      "call_hash": "3e7248b426ba8c7c7344b11b20170b66a082cc774aa0d245b5738ac6641389e4",
+      "id": 376
+    }
+  ],
+  "published_root": "799eda295d700f675d10f8507a7dc8decdebbf13590da7e07dd652305e45fee8",
+  "v": 1
+}
