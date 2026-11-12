@@ -1,0 +1,20 @@
+{
+  "closed": [],
+  "closed_root": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+  "day": "2026-11-11",
+  "digest": "965fb03e4acf35bde7ab4b28ebed93aa3954c6df397712043de9d2831b1384bb",
+  "excluded": [],
+  "excluded_root": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+  "generated_at": "2026-11-12T00:10:00.058454Z",
+  "kind": "daily",
+  "prev_digest": "8cbfdd75d2665e30ffd36a12ce9b727cb9df0ecb36f7a065955f5184ae427d8c",
+  "published": [
+    {
+      "basis": "publish",
+      "call_hash": "bb2d5d5a5c82a7c4091205921c151b003cfd45bb51ab06b16f961f44b1ff6101",
+      "id": 380
+    }
+  ],
+  "published_root": "b6e09cd2162dc84f3b8a21c09f42f0ea6b5a2b03022a3f36d52a1d68b6b993da",
+  "v": 1
+}
