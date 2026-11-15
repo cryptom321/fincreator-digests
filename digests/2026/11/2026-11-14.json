@@ -1,0 +1,14 @@
+{
+  "closed": [],
+  "closed_root": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+  "day": "2026-11-14",
+  "digest": "b742d736e99114fb1f757be5d7a0cded000cc6d7a5a9bd239ed1c05f655261ab",
+  "excluded": [],
+  "excluded_root": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+  "generated_at": "2026-11-15T00:10:00.099903Z",
+  "kind": "daily",
+  "prev_digest": "60b7079de5f8b976a6284f8157ef2c430e054518f187d2013b4d730a5dc388be",
+  "published": [],
+  "published_root": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+  "v": 1
+}
