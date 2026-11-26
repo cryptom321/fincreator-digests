@@ -1,0 +1,20 @@
+{
+  "closed": [
+    {
+      "basis": "close",
+      "id": 384,
+      "outcome_hash": "a5ae138a650d74a9cc8336347ce3584ba9a5105b254495f039367f839d53a373"
+    }
+  ],
+  "closed_root": "d9b532be36df7353c32bf49172644f0f451b9a0f1d7bb573d110f33c1746b1a9",
+  "day": "2026-11-25",
+  "digest": "1f828be3ff5a3866b0190cddbe8ade967e8f3a2b7e98f583ec7636438f22bcbe",
+  "excluded": [],
+  "excluded_root": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+  "generated_at": "2026-11-26T00:10:00.016813Z",
+  "kind": "daily",
+  "prev_digest": "3d0da7e0d98fb88e9c2f4876e6272b107a808406ca2b9cf651b37b4682a7cfdd",
+  "published": [],
+  "published_root": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+  "v": 1
+}
